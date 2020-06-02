@@ -1,0 +1,52 @@
+
+  body {
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTPOp1hZzHXLZ9FDklDELUhnBD9gBkQ8BMT8vlwgVjWAIW8TwLY&usqp=CAU) no-repeat;
+    background-size: cover;
+  }
+
+  .login {
+    width: 320px;
+    height: 420px;
+    color: #ffffff;
+    top: 40%;
+    left: 70%;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    box-sizing: border-box;
+    padding: 200px 60px;
+
+  }
+
+  .avatar {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    position: absolute;
+    top: 25%;
+    transform: translate(50%, 0%);
+  }
+
+  p,
+  h2 {
+    text-align: center;
+    color: blueviolet;
+    font-weight: bold;
+  }
+
+  .login input[type="text"] {
+    border: none;
+    border-bottom: 1px solid #ffffff;
+    background: transparent;
+    outline: none;
+    height: 40px;
+    width: 100%;
+
+  }
+
+  .login input {
+    width: 50%;
+    margin-bottom: 30px;
+    float: right;
+
+  }
+

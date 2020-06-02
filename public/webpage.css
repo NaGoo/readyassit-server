@@ -1,0 +1,28 @@
+
+  h1 {
+    font-size: 72px;
+    text-align: center;
+    background-color: teal;
+    text-shadow: 2px 2px greenyellow;
+  }
+
+  .store input {
+    width: 7%;
+    margin-right: 8px;
+    float: left;
+    color: #000000;
+    text-shadow: 1px 1px lightgray;
+    background-color: teal;
+    font-weight: bold;
+  }
+
+  .store img {
+    width: 60px;
+    height: 60px;
+    border-radius: 60px;
+  }
+
+  .home img {
+    width: 50%;
+  }
+

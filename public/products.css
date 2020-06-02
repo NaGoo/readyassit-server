@@ -1,0 +1,20 @@
+body{
+  background-color: gray;
+}
+h2{
+  text-align: center;
+}
+.shop-item{
+  display: flexbox;
+  width: 50%;
+  padding-right: 30px;
+}
+.title,.price{
+  font-size: x-large;
+}
+.image{
+  display: inline-block;
+  margin-bottom: 50px;
+  
+}
+
